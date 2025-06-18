@@ -22,3 +22,11 @@ To practice creating a responsive and informative landing page using clean HTML5
 ## 📄 License
 
 This project is open source and available under the MIT License.
+
+
+## To enable admin panel
+
+From src/ folder run bash command: php -S localhost:8000
+
+Then go to [http://localhost:8000/textolite/](http://localhost:8000/textolite/) with password: admin
+
